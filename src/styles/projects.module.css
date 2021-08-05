@@ -1,0 +1,29 @@
+.portfolio{
+    
+    text-align: center !important;
+}
+.portfolio > h2{
+    font-size: 5em;
+    margin-top: 80px;
+}
+.portfolio  > h3{
+    font-size: 2em;
+    font-weight: 400;
+}
+/* Project CSS */
+.projects{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 80px;
+    margin: 80px 20px;
+
+}
+.projects h3{
+    text-align: center;
+    margin: 20px auto 0px;
+    font-weight: 500;
+}
+.projects p{
+    margin-top: 4px;
+    color: #ccc;
+}
