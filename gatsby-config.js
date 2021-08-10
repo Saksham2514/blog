@@ -10,6 +10,7 @@ module.exports = {
     'gatsby-transformer-remark',
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
